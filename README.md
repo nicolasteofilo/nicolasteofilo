@@ -1,9 +1,9 @@
-# Olá, tudo bem? 👋
+# Hello how are you? 👋
 
 #### My name is Nicolas Teófilo
 <p>I'm a 14 year old developer, I'm short on programming and I always try to share some content... My current focus is on the backend with NodeJs<p/>
 
-#### Objetivos atuais:
+#### Current goals
 - Improve the skills I already have and learn new ones
 - Helping more and more in open source projects or closed projects
 - Create content regularly
