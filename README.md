@@ -1,6 +1,6 @@
 # Hello how are you? 👋
 
-## My name is Nicolas Teófilo
+## My name is Nicolas
 <p>I'm a 14 year old developer, I'm short on programming and I always try to share some content... My current focus is on the backend with NodeJs.<p/>
 
 ### Current goals
