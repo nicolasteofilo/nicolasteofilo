@@ -19,10 +19,8 @@
  <div  align="center">
  <a href="https://github.com/WelissonLuca"></a>
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolasteofilo&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasteofilo&hide_border=true&theme=nightowl&show_icons=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasteofilo&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasteofilo&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
 </div>
-<br>
 
 ### Get in touch
 <div>
