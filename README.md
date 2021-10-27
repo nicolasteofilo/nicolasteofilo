@@ -30,10 +30,6 @@
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolasteofilo&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasteofilo&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
 </div>
- <div  align="center">
-  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=nicolasteofilo&theme=dracula&line=17bf1a&point=70e000%22%20width=%22870px%22" />
-</div>
-
 
 ### Get in touch
 <div>
