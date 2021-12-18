@@ -1,9 +1,9 @@
 # Hello how are you? 👋
-### My name is Nicolas
-<p>I'm a web developer, I really like technology and I always try to share content... My current focus is on the frontend with ReactJs / NextJs.<p/>
+### My name is Nicolas Teófilo
+<p>Sou desenvolvedor web, atualmente trabalahndo com React.js ⚛️<p/>
 
 ### 🎯 Current goals
-- Improve the skills I already have and learn new ones
+- Go deeper and deeper into Web technologies (React.js)
 - Helping more and more in open source projects or closed projects
 - Create content regularly
 - Learn about UI / UX
@@ -11,12 +11,11 @@
  
 ### 🔨 Technologies
 <p align="left"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <img class="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">   
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <br>
 <p/>
