@@ -6,7 +6,6 @@
 - Go deeper and deeper into Web technologies (React.js)
 - Helping more and more in open source projects or closed projects
 - Create content regularly
-- Learn about UI / UX
 
  
 ### 🔨 Technologies
