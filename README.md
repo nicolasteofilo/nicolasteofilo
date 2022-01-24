@@ -1,12 +1,6 @@
-# Hello how are you?  👋
-### My name is Nicolas Teófilo
-<p>Sou desenvolvedor web, atualmente trabalahndo com React.js ⚛️<p/>
+## Nicolas Teófilo
 
-### 🎯 Current goals
-- Go deeper and deeper into Web technologies (React.js)
-- Helping more and more in open source projects or closed projects
-- Create content regularly
-
+Desenvolvedor Front-end | React.js
  
 ### 🔨 Technologies
 <p align="left"> 
@@ -18,15 +12,6 @@
 <img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <br>
 <p/>
-
-
-### 🏆 My GitHub Status
-
- <div  align="center">
- <a href="https://github.com/WelissonLuca"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolasteofilo&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> &nbsp;
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasteofilo&layout=compact&count_private=true&hide_border=true&theme=dracula&show_icons=true">
-</div>
 
 ### Get in touch
 <div>
