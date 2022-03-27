@@ -1,6 +1,6 @@
 ## Nicolas Teófilo
 
-Front-end Developer | React.js
+Front-end Developer | React.js ⚛️
  
 ##### 🔨 Technologies
 <p align="left"> 
