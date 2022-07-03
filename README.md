@@ -1,6 +1,6 @@
 # Nicolas Teófilo
 
-Front-end Developer at DotCoding
+Front-end Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-@onicolateofilo-06092B?style=flat-square&labelColor=06092B&logo=twitter&logoColor=white&link=https://twitter.com/onicolateofilo)](https://twitter.com/onicolateofilo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Teófilo-06092B?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasteofilo/)](https://www.linkedin.com/in/nicolasteofilo/) 
