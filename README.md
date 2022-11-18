@@ -1,6 +1,6 @@
 # Nicolas Teófilo
 
-Front-end Developer
+Full-stack Developer
 
 Enthusiast of web programming with the best available technologies.
 
