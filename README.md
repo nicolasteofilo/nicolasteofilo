@@ -4,24 +4,23 @@
 
 Enthusiast of web programming with the best available technologies.
 
-I have experience with technologies linked to the JavaScript world, such as ReactJs, NextJs for an excellent Front-End and Nodejs for building scalable and well-maintained APIs.
+I have experience with technologies linked to the JavaScript world, such as ReactJs, NextJs for an excellent Front-End and Nodej and ExpressJS for building scalable and well-maintained APIs.
  
 #### 💻 I work using:
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-354f52?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-354f52?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-354f52?style=flat-square&logo=Python)
+![Node.JS](https://img.shields.io/badge/-Node.JS-354f52?style=flat-square&logo=Node.js)
+![Express.JS](https://img.shields.io/badge/-Express.JS-354f52?style=flat-square&logo=expressjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-354f52?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-354f52?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-354f52?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-354f52?style=flat-square&logo=visual-studio-code)
   
-##### ⚙️ I also use and work: 
+##### ⚙️ I also use: 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-354f52?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-354f52?style=flat-square&logo=css3)
-![Node.JS](https://img.shields.io/badge/-Node.JS-354f52?style=flat-square&logo=Node.js)
-![Express.JS](https://img.shields.io/badge/-Express.JS-354f52?style=flat-square&logo=expressjs)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-354f52?style=flat-square&logo=postgresql)
+![React](https://img.shields.io/badge/-React-354f52?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-354f52?style=flat-square&logo=next)
   
 
