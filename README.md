@@ -1,6 +1,6 @@
 # Nicolas Teófilo
 
-👋🏻 Olá, sou um Desenvolvedor Full Stack JavaScript
+👋🏻 Hi, I am a Full Stack JavaScript Developer
 
 Enthusiast of web programming with the best available technologies.
 
