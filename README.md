@@ -1,6 +1,6 @@
 # Nicolas Teófilo
 
-Full Stack Developer building scalable APIs and cloud-based systems with strong emphasis on performance, reliability, and clean architecture.
+Full Stack Developer building scalable APIs and cloud-based systems, developing high-quality apps and websites with React and React Native, with strong emphasis on performance, reliability, and clean architecture
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
