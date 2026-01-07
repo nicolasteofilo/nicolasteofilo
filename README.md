@@ -12,6 +12,6 @@ Full Stack Developer building scalable APIs and cloud-based systems, developing 
 
 **Core stack:** Node.js, TypeScript, REST APIs, GraphQL, AWS, Serverless, Docker, CI/CD, PostgreSQL.
 
-📫 nicolasteofilodecastro@gmail.com  
+📫 nicolasteofilo.dev@gmail.com
 🔗 github.com/nicolasteofilo
 
