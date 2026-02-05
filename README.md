@@ -21,7 +21,7 @@ Backend Developer focused on **Node.js**, building scalable and maintainable API
 - Clean Architecture & SOLID
 - Unit & Integration Tests
 - Docker & cloud fundamentals
-- Git & CI/CD basics
+- Git & CI/CD
 
 ### 📫 Contact
 
